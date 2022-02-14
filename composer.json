@@ -1,0 +1,14 @@
+{
+  "name": "day19/day19",
+  "type": "project",
+  "description": "php project",
+  "license": "",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
